@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3366e59d-b4a2-49fa-bc0a-517dafbe06a6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.pdf" afterPath="$PROJECT_DIR$/resume.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.tex" afterPath="$PROJECT_DIR$/resume.tex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/coursework.tex" afterPath="$PROJECT_DIR$/resume/coursework.tex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/education.tex" afterPath="$PROJECT_DIR$/resume/education.tex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/experience.tex" afterPath="$PROJECT_DIR$/resume/experience.tex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/extracurricular.tex" afterPath="$PROJECT_DIR$/resume/extracurricular.tex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/projects.tex" afterPath="$PROJECT_DIR$/resume/projects.tex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/skills.tex" afterPath="$PROJECT_DIR$/resume/skills.tex" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cv/committees.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cv/education.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cv/experience.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cv/extracurricular.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cv/honors.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cv/presentation.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cv/skills.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cv/writing.tex" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coverletter.pdf" afterPath="$PROJECT_DIR$/coverletter.pdf" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,8 +35,8 @@
       <file leaf-file-name="coverletter.tex" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coverletter.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="898">
-              <caret line="117" column="117" lean-forward="true" selection-start-line="117" selection-start-column="117" selection-end-line="117" selection-end-column="117" />
+            <state relative-caret-position="958">
+              <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -294,12 +295,12 @@
       <workItem from="1506624789516" duration="4753000" />
       <workItem from="1506721009923" duration="2049000" />
       <workItem from="1506814943400" duration="1532000" />
-      <workItem from="1506819723186" duration="300000" />
+      <workItem from="1506819723186" duration="479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8668000" />
+    <option name="totallyTimeSpent" value="8847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -596,10 +597,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cv/experience.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coverletter.tex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="898">
-          <caret line="117" column="117" lean-forward="true" selection-start-line="117" selection-start-column="117" selection-end-line="117" selection-end-column="117" />
+        <state relative-caret-position="958">
+          <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
           <folding />
         </state>
       </provider>
