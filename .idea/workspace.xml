@@ -29,10 +29,17 @@
       <file leaf-file-name="coverletter.tex" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coverletter.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="654">
-              <caret line="117" column="58" lean-forward="true" selection-start-line="117" selection-start-column="58" selection-end-line="117" selection-end-column="58" />
+            <state relative-caret-position="490">
+              <caret line="54" column="34" lean-forward="false" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profile.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -748,12 +755,12 @@
       <workItem from="1506721009923" duration="2049000" />
       <workItem from="1506814943400" duration="1532000" />
       <workItem from="1506819723186" duration="3081000" />
-      <workItem from="1506839052465" duration="2601000" />
+      <workItem from="1506839052465" duration="3041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14050000" />
+    <option name="totallyTimeSpent" value="14490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -1115,10 +1122,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cv/experience.tex" />
+    <entry file="file://$PROJECT_DIR$/profile.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coverletter.tex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="654">
-          <caret line="117" column="58" lean-forward="true" selection-start-line="117" selection-start-column="58" selection-end-line="117" selection-end-column="58" />
+        <state relative-caret-position="490">
+          <caret line="54" column="34" lean-forward="false" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
           <folding />
         </state>
       </provider>
