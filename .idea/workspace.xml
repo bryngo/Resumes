@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3366e59d-b4a2-49fa-bc0a-517dafbe06a6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/extracurricular.tex" afterPath="$PROJECT_DIR$/resume/extracurricular.tex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/projects.tex" afterPath="$PROJECT_DIR$/resume/projects.tex" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,20 +74,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects.tex" pinned="false" current-in-tab="false">
+      <file leaf-file-name="projects.tex" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume/projects.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+            <state relative-caret-position="244">
+              <caret line="19" column="99" lean-forward="false" selection-start-line="19" selection-start-column="99" selection-end-line="19" selection-end-column="99" />
               <folding>
-                <marker date="1508632835207" expanded="true" signature="390:2885" ph="..." />
-                <marker date="1508632835207" expanded="true" signature="2800:2805" ph="..." />
+                <marker date="1508704355589" expanded="true" signature="2829:2834" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="extracurricular.tex" pinned="false" current-in-tab="true">
+      <file leaf-file-name="extracurricular.tex" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume/extracurricular.tex">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="467">
@@ -126,9 +125,9 @@
         <option value="$PROJECT_DIR$/resume.tex" />
         <option value="$PROJECT_DIR$/resume/experience.tex" />
         <option value="$PROJECT_DIR$/coverletter.tex" />
-        <option value="$PROJECT_DIR$/resume/projects.tex" />
         <option value="$PROJECT_DIR$/resume/education.tex" />
         <option value="$PROJECT_DIR$/resume/extracurricular.tex" />
+        <option value="$PROJECT_DIR$/resume/projects.tex" />
       </list>
     </option>
   </component>
@@ -321,7 +320,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10079000" />
+    <option name="totallyTimeSpent" value="10186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -417,8 +416,7 @@
         <state relative-caret-position="705">
           <caret line="47" column="88" lean-forward="false" selection-start-line="47" selection-start-column="88" selection-end-line="47" selection-end-column="88" />
           <folding>
-            <marker date="1508632835207" expanded="true" signature="390:2885" ph="..." />
-            <marker date="1508632835207" expanded="true" signature="2800:2805" ph="..." />
+            <marker date="1508704355589" expanded="true" signature="2829:2834" ph="..." />
           </folding>
         </state>
       </provider>
@@ -494,8 +492,7 @@
         <state relative-caret-position="40">
           <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding>
-            <marker date="1508632835207" expanded="true" signature="390:2885" ph="..." />
-            <marker date="1508632835207" expanded="true" signature="2800:2805" ph="..." />
+            <marker date="1508704355589" expanded="true" signature="2829:2834" ph="..." />
           </folding>
         </state>
       </provider>
@@ -571,8 +568,7 @@
         <state relative-caret-position="930">
           <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
-            <marker date="1508632835207" expanded="true" signature="390:2885" ph="..." />
-            <marker date="1508632835207" expanded="true" signature="2800:2805" ph="..." />
+            <marker date="1508704355589" expanded="true" signature="2829:2834" ph="..." />
           </folding>
         </state>
       </provider>
@@ -660,8 +656,7 @@
         <state relative-caret-position="555">
           <caret line="37" column="60" lean-forward="true" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
           <folding>
-            <marker date="1508632835207" expanded="true" signature="390:2885" ph="..." />
-            <marker date="1508632835207" expanded="true" signature="2800:2805" ph="..." />
+            <marker date="1508704355589" expanded="true" signature="2829:2834" ph="..." />
           </folding>
         </state>
       </provider>
@@ -703,8 +698,7 @@
         <state relative-caret-position="705">
           <caret line="47" column="88" lean-forward="false" selection-start-line="47" selection-start-column="88" selection-end-line="47" selection-end-column="88" />
           <folding>
-            <marker date="1508632835207" expanded="true" signature="390:2885" ph="..." />
-            <marker date="1508632835207" expanded="true" signature="2800:2805" ph="..." />
+            <marker date="1508704355589" expanded="true" signature="2829:2834" ph="..." />
           </folding>
         </state>
       </provider>
@@ -786,17 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/projects.tex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-          <folding>
-            <marker date="1508632835207" expanded="true" signature="390:2885" ph="..." />
-            <marker date="1508632835207" expanded="true" signature="2800:2805" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resume/experience.tex">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -819,6 +802,16 @@
           <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
           <folding>
             <marker date="1508704248180" expanded="true" signature="1813:1821" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/projects.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="19" column="99" lean-forward="false" selection-start-line="19" selection-start-column="99" selection-end-line="19" selection-end-column="99" />
+          <folding>
+            <marker date="1508704355589" expanded="true" signature="2829:2834" ph="..." />
           </folding>
         </state>
       </provider>
