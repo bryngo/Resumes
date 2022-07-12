@@ -2,4 +2,4 @@
 
 Purpose: General
 
-To compile: `xelatex resume.tex`
+To compile: `xelatex bngo_resume.tex`
